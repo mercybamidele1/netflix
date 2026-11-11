@@ -667,6 +667,7 @@ small{
         align-items: center;
         width: 90%;
         gap: 12px;
+        padding:1rem;
     }
 
     input {
